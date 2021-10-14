@@ -1,0 +1,12 @@
+.banner{
+    background-color: blanchedalmond;
+}
+
+.banner-item{
+    padding: 5% 25%;
+    background-image: url("../../bannerbackground.png");
+    height: 400px;
+}
+.banner-item input{
+    margin-left: 35%;
+}

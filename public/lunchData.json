@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "name":"Beef Steak",
+        "price":"$23.00",
+        "image":"https://i.ibb.co/kMVHfrB/lunch1.png"
+
+    },
+    {
+        "id":"2",
+        "name":"Fried Chiken Bento",
+        "price":"$20.00",
+        "image":"https://i.ibb.co/vzjd9C3/lunch5.png"
+
+    },
+    {
+        "id":"3",
+        "name":"Healthy Meal Plan",
+        "price":"$13.00",
+        "image":"https://i.ibb.co/X8vjJJZ/lunch3.png"
+
+    },
+    {
+        "id":"4",
+        "name":"Indian Lunch",
+        "price":"$8.99",
+        "image":"https://i.ibb.co/tKxcvPy/lunch4.png"
+
+    },
+    {
+        "id":"5",
+        "name":"Terragon Salmon",
+        "price":"$7.00",
+        "image":"https://i.ibb.co/L8mFN5b/lunch2.png"
+
+    },
+    {
+        "id":"6",
+        "name":"Honey Soy",
+        "price":"$8.00",
+        "image":"https://i.ibb.co/4NqYZ8K/lunch6.png"
+
+    }
+    
+]
